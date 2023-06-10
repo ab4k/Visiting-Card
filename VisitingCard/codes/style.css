@@ -1,0 +1,249 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.card,
+.screw img {
+    width: 10px;
+}
+
+#sc1 {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#sc2 {
+    display: flex;
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.card {
+    background-size: contain;
+    background-color: #0d1b2a;
+    width: 500px;
+    height: 300px;
+    border-radius: 15px;
+    box-shadow: 6px 6px 15px 6px rgba(255, 100, 0, 0.7);
+}
+
+.container {
+    width: 300px;
+    height: 100px;
+    background-color: #5465ff;
+    background-image: linear-gradient(135deg, #778da9 10%, #415a77 100%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 2px solid #1b263b;
+    border-radius: 0 0 10px 10px;
+}
+
+.container img {
+    width: 30px;
+}
+
+#gh {
+    margin-top: 35px;
+    margin-left: 20px;
+    float: left;
+}
+
+#li {
+    margin-top: 35px;
+    margin-right: 20px;
+    float: right;
+}
+
+.container2 {
+    background-color: white;
+    width: 50px;
+    height: 1px;
+    margin-top: 2px;
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+
+.wrapper {
+    width: 50px;
+    margin-top: 10px;
+    display: inline-flex;
+    flex-direction: column;
+}
+
+#left-strip {
+    float: left;
+}
+
+#right-strip {
+    float: right;
+}
+
+.strip {
+    background-color: #1b263b;
+    width: 500px;
+    height: 40px;
+    margin-top: 2px;
+}
+
+.white-border {
+    border-top: 2px solid white;
+}
+
+.lower-bump {
+    width: 350px;
+    height: 50px;
+    margin-top: 184px;
+    margin-left: 75px;
+    border-radius: 15px 15px 0 0;
+    background-color: #023047;
+}
+
+.lb2,
+.lb3 {
+    border: 2px solid #0d1b2a;
+    width: 25px;
+    height: 25px;
+    border-radius: 100%;
+    background-color: white;
+}
+
+.lb2 {
+    margin-right: 60px;
+}
+
+.lb3 {
+    margin-left: 60px;
+}
+
+.lower-groove {
+    display: flex;
+    justify-content: center;
+    transform: translateY(-40px);
+}
+
+.another-bump {
+    margin-top: 10px;
+    width: 150px;
+    height: 30px;
+    background-color: #0d1b2a;
+    border-radius: 10px 10px 0 0;
+}
+.asthetics {
+    background-color: #5465ff;
+    width: 300px;
+    height: 20px;
+}
+
+@media only screen and (max-width: 320px) {
+    .card {
+        height: 100px;
+        width: 200px;
+    }
+
+    .strip {
+        height: 20px;
+        width: 200px;
+    }
+
+    .container {
+        margin-top: 5px;
+        width: 150px;
+        height: 50px;
+    }
+
+    .lower-bump {
+        width: 150px;
+        height: 30px;
+        transform: translate(-25px, -65px);
+    }
+
+    .another-bump {
+        width: 80px;
+        height: 20px;
+        transform: translate(4px, -54px);
+    }
+
+    .lb2,
+    .lb3 {
+        border: 1px solid #0d1b2a;
+        width: 8px;
+        height: 8px;
+        border-radius: 100%;
+        background-color: white;
+        transform: translateY(-40px);
+    }
+    .lb2 {
+        margin-right: 30px;
+    }
+    
+    .lb3 {
+        margin-left: 30px;
+    }
+    .asthetics {
+        width: 150px;
+        height: 8px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .card {
+        height: 200px;
+        width: 300px;
+    }
+
+    .strip {
+        height: 24px;
+        width: 300px;
+    }
+
+    .container {
+        margin-top: 5px;
+        width: 180px;
+        height: 80px;
+    }
+
+    .lower-bump {
+        width: 200px;
+        height: 30px;
+        transform: translate(-25px, -65px);
+    }
+
+    .another-bump {
+        width: 80px;
+        height: 20px;
+        transform: translate(4px, -54px);
+    }
+
+    .lb2,
+    .lb3 {
+        border: 1px solid #0d1b2a;
+        width: 8px;
+        height: 8px;
+        border-radius: 100%;
+        background-color: white;
+        transform: translateY(-40px);
+    }
+    .lb2 {
+        margin-right: 30px;
+    }
+    
+    .lb3 {
+        margin-left: 30px;
+    }
+    .asthetics {
+        width: 180px;
+        height: 10px;
+    }
+}
