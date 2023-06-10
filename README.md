@@ -5,4 +5,12 @@ The feature of this card is that we can share just a link to anyone we want and 
 
 ## The desktop view of the card is shown below:
 
-![Card Preview on Desktop](https://github.com/ab4k/Visiting-Card/blob/main/VisitingCard/images/desktopPreview.png)
+![Card Preview on Desktop Devices](https://github.com/ab4k/Visiting-Card/blob/main/VisitingCard/images/desktopPreview.png)
+
+## Tablet view of the card is shown below:
+
+![Card Preview on Tablet Devices](https://github.com/ab4k/Visiting-Card/blob/main/VisitingCard/images/tabletPreview.png)
+
+## Mobile Preview of the card is shown below:
+
+![Card Preview on Mobile Devices](https://github.com/ab4k/Visiting-Card/blob/main/VisitingCard/images/mobilePreview.png)
