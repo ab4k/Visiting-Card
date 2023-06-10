@@ -5,4 +5,4 @@ The feature of this card is that we can share just a link to anyone we want and 
 
 The desktop view of the card is shown below:
 
-![Card Preview on Desktop]()
+![Card Preview on Desktop](/images/desktopPreview.png)
