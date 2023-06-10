@@ -13,7 +13,7 @@ The feature of this card is that we can share just a link to anyone we want and,
 <!-- ![Card Preview on Tablet Devices](https://github.com/ab4k/Visiting-Card/blob/main/VisitingCard/images/tabletPreview.jpg) -->
 <img src="https://github.com/ab4k/Visiting-Card/blob/main/VisitingCard/images/tabletPreview.jpg" alt="Tablet Preview" width="400"/>
 
-## Mobile Preview of the card is shown below:
+## Mobile view of the card is shown below:
 
 <!-- ![Card Preview on Mobile Devices](https://github.com/ab4k/Visiting-Card/blob/main/VisitingCard/images/mobilePreview.png) -->
 <img src="https://github.com/ab4k/Visiting-Card/blob/main/VisitingCard/images/mobilePreview.png" alt="Mobile Preview" width="200"/>
