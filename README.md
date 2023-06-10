@@ -21,4 +21,4 @@ The feature of this card is that we can share just a link to anyone we want and,
 ### Current Features 
 The user can click on the icon to visit the LinkedIn and Github profiles of the card owner.
 
-Currently, the card is limited to only two profiles, but we can add as much profiles as we want. For better experience to user, we are using minimal and clean UI. 
+Currently, the card is limited to only two profiles, but we can add as much profiles as we want. For better user experience, we are using minimal and clean UI. 
