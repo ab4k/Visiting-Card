@@ -9,7 +9,7 @@ The feature of this card is that we can share just a link to anyone we want and 
 
 ## Tablet view of the card is shown below:
 
-![Card Preview on Tablet Devices](https://github.com/ab4k/Visiting-Card/blob/main/VisitingCard/images/tabletPreview.png)
+![Card Preview on Tablet Devices](https://github.com/ab4k/Visiting-Card/blob/main/VisitingCard/images/tabletPreview.jpg)
 
 ## Mobile Preview of the card is shown below:
 
